@@ -33,7 +33,9 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RecyclerViewFragment extends Fragment {
     RecyclerView recyclerView;
-    List<Flower> flowersList =  new ArrayList<Flower>();
+    List<Flower> flowersList =  new ArrayList<>();
+
+    //Change Here :D by Eslam El-hoseiny
     FlowersAdapter adatpter;
 
     @Nullable
