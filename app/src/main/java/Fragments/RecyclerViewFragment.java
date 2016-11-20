@@ -38,6 +38,7 @@ public class RecyclerViewFragment extends Fragment {
     //Change Here :D by Eslam El-hoseiny
     FlowersAdapter adatpter;
     // Edited by mahmoud Abdelzaher
+    //Thanks Yo 7ooooda :D :D
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
